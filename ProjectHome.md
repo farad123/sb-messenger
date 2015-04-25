@@ -1,0 +1,1 @@
+Snakebyte Messenger is a tool like Whats App or other similar Messaging Services but it's free. The Snakebyte Messenger is advertisement based, but donations are also nice to see :)
